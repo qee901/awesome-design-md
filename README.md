@@ -1,14 +1,12 @@
-
 <a href="https://github.com/VoltAgent/voltagent">
      <img width="1500"  alt="claude-skills" src="https://cdn.voltagent.dev/awesome-repo/logo.json.svg" />
 </a>
 
-
 <br/>
 <br/>
 
 <div align="center">
-    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>
+    <strong>由专注于开发者的网站设计分析整理而成的 DESIGN.md 精选合集。</strong>
     <br />
     <br />
 
@@ -16,38 +14,36 @@
 
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-84-10b981?style=classic)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)
-[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![Official MCP Servers](https://img.shields.io/badge/Official-MCP%20Servers-c2410c?style=classic&logo=github&logoColor=white&labelColor=24292f)](https://github.com/VoltAgent/official-mcp-servers)
+https://awesome.re/badge.svg
+https://img.shields.io/badge/DESIGN.md%20count-84-10b981?style=classic
+https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic
+https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2
+https://img.shields.io/badge/Official-MCP%20Servers-c2410c?style=classic&logo=github&logoColor=white&labelColor=24292f
 
 </div>
 </div>
 
-# Awesome DESIGN.md
+Awesome DESIGN.md
 
-Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language.
+将一份 DESIGN.md 复制到你的项目中，告诉你的 AI 智能体"给我构建一个看起来像这样的页面"，即可生成与设计语言在视觉上保持高度一致的高质量 UI。
 
-Built with real design depth — including analyzed patterns, tokens, and rules — for high-quality UI generation, not surface-level outputs.
+基于真实的设计深度构建——包括经过分析的模式、token 和规则——用于高质量 UI 生成，而非流于表面的输出。
 
+什么是 DESIGN.md？
 
-## What is DESIGN.md?
+DESIGN.md 是 Google Stitch 提出的一个新概念。它是一份纯文本的设计系统文档，AI 智能体通过阅读它来生成一致的 UI。
 
-[DESIGN.md](https://stitch.withgoogle.com/docs/design-md/overview/) is a new concept introduced by Google Stitch. A plain-text design system document that AI agents read to generate consistent UI.
+它就是一个 Markdown 文件。无需 Figma 导出，无需 JSON schema，无需特殊工具。把它放进你的项目根目录，任何 AI 编程智能体或 Google Stitch 都能立刻理解你的 UI 应该是什么样子。Markdown 是 LLM 最擅长阅读的格式，因此无需解析或配置。
 
-It's just a markdown file. No Figma exports, no JSON schemas, no special tooling. Drop it into your project root and any AI coding agent or Google Stitch instantly understands how your UI should look. Markdown is the format LLMs read best, so there's nothing to parse or configure.
+文件 谁来阅读 定义了什么
+AGENTS.md 编程智能体 如何构建项目
+DESIGN.md 设计智能体 项目的外观和感觉应该是什么样的
 
-| File | Who reads it | What it defines |
-|------|-------------|-----------------|
-| `AGENTS.md` | Coding agents | How to build the project |
-| `DESIGN.md` | Design agents | How the project should look and feel |
+本仓库提供可直接使用的 DESIGN.md 文件，均提取自真实网站。
 
-**This repo provides ready-to-use DESIGN.md files** extracted from real websites. 
+请求一份 DESIGN.md
 
-## Request a DESIGN.md
-
-You can [request a DESIGN.md](https://getdesign.md/request) for specific website, including private requests delivered exclusively to you.
+你可以请求特定网站的 DESIGN.md，包括仅向你独家交付的私密请求。
 
 <br/>
 
@@ -57,19 +53,17 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 
 <br/>
 
-
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="100%">
 
-<h4>👉 Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
+<h4>👉 与使用 AI 编程智能体和网页构建器交付 UI 的开发者、设计师和 vibecoder 一起展示你的产品。</h4>
 
-<sub>Ranked #150 globally on GitHub. A community resource used by developers, designers, and vibecoders.</sub>
+<sub>GitHub 全球排名第 150 位。一个被开发者、设计师和 vibecoder 使用的社区资源。</sub>
 
 <a href="https://sponsors.voltagent.dev/#awesome-design-md"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
-
 
 </td>
 </tr>
@@ -77,172 +71,161 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 
 </div>
 
+合集
 
+AI 与 LLM 平台
 
+· Claude - Anthropic 的 AI 助手。温暖的陶土色点缀，简洁的编辑式布局
+· Cohere - 企业级 AI 平台。鲜艳的渐变，数据丰富的仪表盘美学
+· ElevenLabs - AI 语音平台。深色电影感 UI，音频波形美学
+· Jobright - AI 求职平台。春薄荷绿、黑色胶囊按钮、压缩的 Titillium 标题
+· Minimax - AI 模型提供商。大胆的深色界面搭配霓虹点缀
+· Mistral AI - 开放权重 LLM 提供商。法式工程极简主义，紫色调
+· Ollama - 本地运行 LLM。终端优先，单色简约
+· OpenCode AI - AI 编程平台。以开发者为中心的深色主题
+· Replicate - 通过 API 运行 ML 模型。干净的白色画布，代码优先
+· Runway - AI 创意工具平台，具有编辑式电影节美学——电影感深色主视觉、纸白色阅读带、单一专有无衬线字体，以及纯黑色胶囊 CTA。
+· Together AI - 开源 AI 基础设施。技术性、蓝图风格的设计
+· VoltAgent - AI 智能体框架。虚空黑画布、祖母绿点缀、终端原生
+· xAI - 埃隆·马斯克的 AI 实验室。鲜明的单色，未来主义极简
 
+开发者工具与 IDE
 
+· Cursor - AI 优先的代码编辑器。流畅的深色界面，渐变点缀
+· Expo - React Native 平台。深色主题，紧凑的字母间距，以代码为中心
+· Lovable - AI 全栈构建器。俏皮的渐变，友好的开发者美学
+· Raycast - 效率启动器。流畅的深色镀铬，鲜艳的渐变点缀
+· Superhuman - 快速电子邮件客户端。高级深色 UI，键盘优先，紫色辉光
+· Vercel - 前端部署平台。黑白精准，Geist 字体
+· Warp - 现代终端。类 IDE 深色界面，基于块的命令 UI
 
-## Collection
+后端、数据库与 DevOps
 
-### AI & LLM Platforms
+· ClickHouse - 快速分析数据库。黄色点缀，技术文档风格
+· Composio - 工具集成平台。现代深色搭配多彩集成图标
+· HashiCorp - 基础设施自动化。企业级简洁，黑白配色
+· MongoDB - 文档数据库。绿叶品牌，开发者文档导向
+· Oracle - 企业云与数据库软件。温暖中性色阶梯，仅炭黑色操作用色，红色仅保留给品牌字标
+· PostHog - 产品分析。俏皮的刺猬品牌，开发者友好的深色 UI
+· Sanity - 无头内容平台，具有深色优先的编辑式营销界面——112px 展示字体、IBM Plex Mono 技术性眉标，以及仅保留给最高优先级 CTA 的单一珊瑚红点缀。
+· Sentry - 错误监控。深色仪表盘，数据密集，粉紫点缀
+· Supabase - 开源 Firebase 替代品。深色祖母绿主题，代码优先
 
-- [**Claude**](https://getdesign.md/claude/design-md) - Anthropic's AI assistant. Warm terracotta accent, clean editorial layout
-- [**Cohere**](https://getdesign.md/cohere/design-md) - Enterprise AI platform. Vibrant gradients, data-rich dashboard aesthetic
-- [**ElevenLabs**](https://getdesign.md/elevenlabs/design-md) - AI voice platform. Dark cinematic UI, audio-waveform aesthetics
-- [**Jobright**](https://getdesign.md/jobright/design-md) - AI job-hunting platform. Spring-mint green, black pill buttons, condensed Titillium headlines
-- [**Minimax**](https://getdesign.md/minimax/design-md) - AI model provider. Bold dark interface with neon accents
-- [**Mistral AI**](https://getdesign.md/mistral.ai/design-md) - Open-weight LLM provider. French-engineered minimalism, purple-toned
-- [**Ollama**](https://getdesign.md/ollama/design-md) - Run LLMs locally. Terminal-first, monochrome simplicity
-- [**OpenCode AI**](https://getdesign.md/opencode.ai/design-md) - AI coding platform. Developer-centric dark theme
-- [**Replicate**](https://getdesign.md/replicate/design-md) - Run ML models via API. Clean white canvas, code-forward
-- [**Runway**](https://getdesign.md/runwayml/design-md) - AI creative-tools platform with an editorial film-festival aesthetic — cinematic dark heroes, paper-white reading bands, single proprietary sans, and pure black pill CTAs.
-- [**Together AI**](https://getdesign.md/together.ai/design-md) - Open-source AI infrastructure. Technical, blueprint-style design
-- [**VoltAgent**](https://getdesign.md/voltagent/design-md) - AI agent framework. Void-black canvas, emerald accent, terminal-native
-- [**xAI**](https://getdesign.md/x.ai/design-md) - Elon Musk's AI lab. Stark monochrome, futuristic minimalism
+生产力与 SaaS
 
-### Developer Tools & IDEs
+· Cal.com - 开源日程安排。干净的中性 UI，面向开发者的简约
+· Intercom - 客户消息。友好的蓝色调，对话式 UI 模式
+· Linear - 面向工程师的项目管理。极致极简，精准，紫色点缀
+· Mintlify - 文档平台。干净，绿色点缀，阅读优化
+· Notion - 一体化工作空间。温暖极简主义，衬线标题，柔和表面
+· Resend - 面向开发者的邮件 API。极简深色主题，等宽字体点缀
+· SAP - 企业业务软件。白色画布，扁平蓝色色带，应用框架镀铬
+· Zapier - 自动化平台。温暖橙色，友好的插画驱动
 
-- [**Cursor**](https://getdesign.md/cursor/design-md) - AI-first code editor. Sleek dark interface, gradient accents
-- [**Expo**](https://getdesign.md/expo/design-md) - React Native platform. Dark theme, tight letter-spacing, code-centric
-- [**Lovable**](https://getdesign.md/lovable/design-md) - AI full-stack builder. Playful gradients, friendly dev aesthetic
-- [**Raycast**](https://getdesign.md/raycast/design-md) - Productivity launcher. Sleek dark chrome, vibrant gradient accents
-- [**Superhuman**](https://getdesign.md/superhuman/design-md) - Fast email client. Premium dark UI, keyboard-first, purple glow
-- [**Vercel**](https://getdesign.md/vercel/design-md) - Frontend deployment platform. Black and white precision, Geist font
-- [**Warp**](https://getdesign.md/warp/design-md) - Modern terminal. Dark IDE-like interface, block-based command UI
+设计与创意工具
 
-### Backend, Database & DevOps
+· Airtable - 电子表格-数据库混合体。多彩、友好、结构化数据美学
+· Clay - 创意机构。有机形状，柔和渐变，艺术指导式布局
+· Figma - 协作设计工具。鲜艳的多色，俏皮又专业
+· Framer - 网站构建器。大胆的黑与蓝，动效优先，设计导向
+· Miro - 视觉协作。明亮的黄色点缀，无限画布美学
+· Webflow - 可视化网页构建器。蓝色点缀，精致的营销网站美学
 
-- [**ClickHouse**](https://getdesign.md/clickhouse/design-md) - Fast analytics database. Yellow-accented, technical documentation style
-- [**Composio**](https://getdesign.md/composio/design-md) - Tool integration platform. Modern dark with colorful integration icons
-- [**HashiCorp**](https://getdesign.md/hashicorp/design-md) - Infrastructure automation. Enterprise-clean, black and white
-- [**MongoDB**](https://getdesign.md/mongodb/design-md) - Document database. Green leaf branding, developer documentation focus
-- [**Oracle**](https://getdesign.md/oracle/design-md) - Enterprise cloud and database software. Warm neutral ladder, charcoal-only actions, red saved for the wordmark
-- [**PostHog**](https://getdesign.md/posthog/design-md) - Product analytics. Playful hedgehog branding, developer-friendly dark UI
-- [**Sanity**](https://getdesign.md/sanity/design-md) - Headless content platform with a dark-first editorial marketing surface — 112px display type, IBM Plex Mono technical eyebrows, and a single coral-red accent reserved for the highest-priority CTA.
-- [**Sentry**](https://getdesign.md/sentry/design-md) - Error monitoring. Dark dashboard, data-dense, pink-purple accent
-- [**Supabase**](https://getdesign.md/supabase/design-md) - Open-source Firebase alternative. Dark emerald theme, code-first
+金融科技与加密货币
 
-### Productivity & SaaS
+· Binance - 加密货币交易所。单色上的大胆币安黄，交易大厅般的紧迫感
+· Coinbase - 加密货币交易所。干净的蓝色标识，以信任为中心，机构感
+· Kraken - 加密货币交易平台。紫色点缀的深色 UI，数据密集的仪表盘
+· Mastercard - 全球支付网络。温暖奶油色画布，轨道胶囊形状，编辑式温暖感
+· Mercury - 创业公司银行平台。墨紫夜色世界，靛蓝操作胶囊，轻盈定制无衬线字体
+· NerdWallet - 个人理财比较平台。深云杉绿，薄荷色渲染，近方形圆角
+· Revolut - 数字银行。流畅的深色界面，渐变卡片，金融科技精准
+· Stripe - 支付基础设施。标志性紫色渐变，字重 300 的优雅
+· Wise - 国际汇款。明亮的绿色点缀，友好清晰
 
-- [**Cal.com**](https://getdesign.md/cal/design-md) - Open-source scheduling. Clean neutral UI, developer-oriented simplicity
-- [**Intercom**](https://getdesign.md/intercom/design-md) - Customer messaging. Friendly blue palette, conversational UI patterns
-- [**Linear**](https://getdesign.md/linear.app/design-md) - Project management for engineers. Ultra-minimal, precise, purple accent
-- [**Mintlify**](https://getdesign.md/mintlify/design-md) - Documentation platform. Clean, green-accented, reading-optimized
-- [**Notion**](https://getdesign.md/notion/design-md) - All-in-one workspace. Warm minimalism, serif headings, soft surfaces
-- [**Resend**](https://getdesign.md/resend/design-md) - Email API for developers. Minimal dark theme, monospace accents
-- [**SAP**](https://getdesign.md/sap/design-md) - Enterprise business software. White canvas, flat blue bands, application-frame chrome
-- [**Zapier**](https://getdesign.md/zapier/design-md) - Automation platform. Warm orange, friendly illustration-driven
+电商与零售
 
-### Design & Creative Tools
+· Airbnb - 旅行市场。温暖的珊瑚色点缀，摄影驱动，圆润 UI
+· Meta - 科技零售店。摄影优先，二元明/暗表面，Meta 蓝 CTA
+· mydealz - 德国优惠社区。密集的白色卡片信息流，热/冷投票胶囊，品牌绿
+· Nike - 运动零售。单色 UI，巨大的大写 Futura，全出血摄影
+· Shopify - 电商平台。深色优先的电影感，霓虹绿点缀，超轻展示字体
+· Starbucks - 咖啡零售旗舰。四层大地绿系统，温暖奶油色画布，专有 SoDoSans 字体
 
-- [**Airtable**](https://getdesign.md/airtable/design-md) - Spreadsheet-database hybrid. Colorful, friendly, structured data aesthetic
-- [**Clay**](https://getdesign.md/clay/design-md) - Creative agency. Organic shapes, soft gradients, art-directed layout
-- [**Figma**](https://getdesign.md/figma/design-md) - Collaborative design tool. Vibrant multi-color, playful yet professional
-- [**Framer**](https://getdesign.md/framer/design-md) - Website builder. Bold black and blue, motion-first, design-forward
-- [**Miro**](https://getdesign.md/miro/design-md) - Visual collaboration. Bright yellow accent, infinite canvas aesthetic
-- [**Webflow**](https://getdesign.md/webflow/design-md) - Visual web builder. Blue-accented, polished marketing site aesthetic
+媒体与消费科技
 
-### Fintech & Crypto
+· 1win - 加密赌场与体育博彩。近黑画布，鲜艳绿色操作用色，密集的游戏图块轨道
+· Al Jazeera - 全球新闻网络。扁平白纸，密集的 Roboto 标题，橙色标志与直播红
+· Apple - 消费电子。高级留白，SF Pro，电影感图像
+· DJI - 无人机与相机制造商。工作室产品图块，工程蓝胶囊，紧凑的 Open Sans
+· HP - PC 与打印机制造商。纯白画布，HP Electric Blue 信号 CTA，几何 Forma DJR Micro，蓝色人字形装饰
+· IBM - 企业技术。Carbon 设计系统，结构化蓝色调
+· NVIDIA - GPU 计算。绿黑能量，技术力量美学
+· Oura - 智能戒指健康品牌。温暖纸奶油色，编辑式衬线，大地色点缀
+· Pinterest - 视觉发现平台。红色点缀，瀑布流网格，图像优先
+· PlayStation - 游戏主机零售。三表面通道布局，青色悬停缩放交互
+· SpaceX - 太空技术。鲜明的黑白，全出血图像，未来主义
+· Spotify - 音乐流媒体。深色上的鲜艳绿色，大胆字体，专辑封面驱动
+· The Verge - 科技编辑媒体。酸性薄荷与紫外色点缀，Manuka 展示字体
+· Uber - 出行平台。大胆的黑白，紧凑字体，都市能量
+· Vodafone - 全球电信品牌。纪念碑式大写展示字体，Vodafone Red 章节色带
+· WIRED - 科技杂志。纸白色大报密度，定制衬线，墨蓝链接
 
-- [**Binance**](https://getdesign.md/binance/design-md) - Crypto exchange. Bold Binance Yellow on monochrome, trading-floor urgency
-- [**Coinbase**](https://getdesign.md/coinbase/design-md) - Crypto exchange. Clean blue identity, trust-focused, institutional feel
-- [**Kraken**](https://getdesign.md/kraken/design-md) - Crypto trading platform. Purple-accented dark UI, data-dense dashboards
-- [**Mastercard**](https://getdesign.md/mastercard/design-md) - Global payments network. Warm cream canvas, orbital pill shapes, editorial warmth
-- [**Mercury**](https://getdesign.md/mercury/design-md) - Startup banking platform. Ink-violet night world, indigo action pill, light custom sans
-- [**NerdWallet**](https://getdesign.md/nerdwallet/design-md) - Personal finance comparison platform. Deep spruce green, mint washes, near-square corners
-- [**Revolut**](https://getdesign.md/revolut/design-md) - Digital banking. Sleek dark interface, gradient cards, fintech precision
-- [**Stripe**](https://getdesign.md/stripe/design-md) - Payment infrastructure. Signature purple gradients, weight-300 elegance
-- [**Wise**](https://getdesign.md/wise/design-md) - International money transfer. Bright green accent, friendly and clear
+汽车
 
-### E-commerce & Retail
+· BMW - 豪华汽车。深色高级表面，精准德国工程美学
+· BMW M - 性能汽车。赛车运动启发的对比，M 色点缀，精准驱动布局
+· Bugatti - 豪华超跑。影院黑画布，单色极简，纪念碑式展示字体
+· Ferrari - 豪华汽车。明暗对比黑白编辑式，极度稀疏的 Ferrari Red
+· Lamborghini - 豪华汽车。纯黑大教堂，金色点缀，LamboType 定制 Neo-Grotesk
+· Renault - 法国汽车。鲜艳的极光渐变，NouvelR 专有字体，零圆角按钮
+· Tesla - 电动汽车。极致的减法，电影感全视口摄影，Universal Sans
 
-- [**Airbnb**](https://getdesign.md/airbnb/design-md) - Travel marketplace. Warm coral accent, photography-driven, rounded UI
-- [**Meta**](https://getdesign.md/meta/design-md) - Tech retail store. Photography-first, binary light/dark surfaces, Meta Blue CTAs
-- [**mydealz**](https://getdesign.md/mydealz/design-md) - German deals community. Dense white-card feed, hot and cold voting pill, brand green
-- [**Nike**](https://getdesign.md/nike/design-md) - Athletic retail. Monochrome UI, massive uppercase Futura, full-bleed photography
-- [**Shopify**](https://getdesign.md/shopify/design-md) - E-commerce platform. Dark-first cinematic, neon green accent, ultra-light display type
-- [**Starbucks**](https://getdesign.md/starbucks/design-md) - Coffee retail flagship. Four-tier earth-green system, warm cream canvas, proprietary SoDoSans typography
+复古网络 · DESIGN.md 怀旧系列
 
-### Media & Consumer Tech
+一个周六系列——提取自 1990 年代网络的 DESIGN.md 文件。放入一份，然后告诉你的 AI 智能体构建一个符合时代特征的复古 UI。
 
-- [**1win**](https://getdesign.md/1win/design-md) - Crypto casino and sportsbook. Near-black canvas, vivid green action color, dense game-tile rails
-- [**Al Jazeera**](https://getdesign.md/aljazeera/design-md) - Global news network. Flat white paper, dense Roboto headlines, orange signature and live red
-- [**Apple**](https://getdesign.md/apple/design-md) - Consumer electronics. Premium white space, SF Pro, cinematic imagery
-- [**DJI**](https://getdesign.md/dji/design-md) - Drone and camera maker. Studio product tiles, engineering-blue pills, tight Open Sans
-- [**HP**](https://getdesign.md/hp/design-md) - PC and printer maker. Pure white canvas, HP Electric Blue signal CTA, geometric Forma DJR Micro, blue chevron decorations
-- [**IBM**](https://getdesign.md/ibm/design-md) - Enterprise technology. Carbon design system, structured blue palette
-- [**NVIDIA**](https://getdesign.md/nvidia/design-md) - GPU computing. Green-black energy, technical power aesthetic
-- [**Oura**](https://getdesign.md/oura/design-md) - Smart ring wellness brand. Warm paper cream, editorial serif, earth-tone accents
-- [**Pinterest**](https://getdesign.md/pinterest/design-md) - Visual discovery platform. Red accent, masonry grid, image-first
-- [**PlayStation**](https://getdesign.md/playstation/design-md) - Gaming console retail. Three-surface channel layout, cyan hover-scale interaction
-- [**SpaceX**](https://getdesign.md/spacex/design-md) - Space technology. Stark black and white, full-bleed imagery, futuristic
-- [**Spotify**](https://getdesign.md/spotify/design-md) - Music streaming. Vibrant green on dark, bold type, album-art-driven
-- [**The Verge**](https://getdesign.md/theverge/design-md) - Tech editorial media. Acid-mint and ultraviolet accents, Manuka display type
-- [**Uber**](https://getdesign.md/uber/design-md) - Mobility platform. Bold black and white, tight type, urban energy
-- [**Vodafone**](https://getdesign.md/vodafone/design-md) - Global telecom brand. Monumental uppercase display, Vodafone Red chapter bands
-- [**WIRED**](https://getdesign.md/wired/design-md) - Tech magazine. Paper-white broadsheet density, custom serif, ink-blue links
+· Dell (1996) - 目录时代的企业网站。字面意义上的黑色页面边框，扁平色块"丝带卡片"，粗壮的 Helvetica-Black 标题配 Times Roman 正文，以及手工切割的 GIF 贴纸（NEW! 爆炸徽章、奖项印章、斜面产品照片）。
+· Nintendo.com (2001) - 千禧年"主机镀铬"网页。拉丝长春花蓝斜面金属面板，半色调点状碳纤维导航发出琥珀色光芒，描边 Arial-Black 盒装艺术字标置于电路板主视觉区域之上，以及一个像素马里奥欢迎气泡。
 
-### Automotive
+每份 DESIGN.md 包含什么
 
-- [**BMW**](https://getdesign.md/bmw/design-md) - Luxury automotive. Dark premium surfaces, precise German engineering aesthetic
-- [**BMW M**](https://getdesign.md/bmw-m/design-md) - Performance automotive. Motorsport-inspired contrast, M color accents, precision-driven layout
-- [**Bugatti**](https://getdesign.md/bugatti/design-md) - Luxury hypercar. Cinema-black canvas, monochrome austerity, monumental display type
-- [**Ferrari**](https://getdesign.md/ferrari/design-md) - Luxury automotive. Chiaroscuro black-white editorial, Ferrari Red with extreme sparseness
-- [**Lamborghini**](https://getdesign.md/lamborghini/design-md) - Luxury automotive. True black cathedral, gold accent, LamboType custom Neo-Grotesk
-- [**Renault**](https://getdesign.md/renault/design-md) - French automotive. Vivid aurora gradients, NouvelR proprietary typeface, zero-radius buttons
-- [**Tesla**](https://getdesign.md/tesla/design-md) - Electric vehicles. Radical subtraction, cinematic full-viewport photography, Universal Sans
+每个文件都遵循 Stitch DESIGN.md 格式，并包含扩展章节：
 
-### Retro Web · DESIGN.md Nostalgia
+# 章节 记录内容
+1 视觉主题与氛围 情绪、密度、设计哲学
+2 色彩调色板与角色 语义名称 + 十六进制 + 功能角色
+3 排版规则 字体家族，完整层级表
+4 组件样式 按钮、卡片、输入框、导航及其状态
+5 布局原则 间距刻度、网格、留白哲学
+6 深度与层次 阴影系统、表面层级
+7 该做与不该做 设计护栏与反模式
+8 响应式行为 断点、触摸目标、折叠策略
+9 智能体提示指南 快速颜色参考、即用型提示词
 
-A Saturday series — DESIGN.md files extracted from the web of the 1990s. Drop one in and tell your AI agent to build a period-accurate vintage UI.
+每个网站包含：
 
-- [**Dell (1996)**](https://getdesign.md/dell-1996/design-md) - Catalog-era enterprise web. Literal black page frame, flat color-block "ribbon cards", chunky Helvetica-Black titles over Times Roman body, and hand-cut GIF stickers (NEW! bursts, award seals, beveled product photos).
-- [**Nintendo.com (2001)**](https://getdesign.md/nintendo-2001/design-md) - Y2K "console chrome" web. Brushed-periwinkle beveled metal panels, a halftone-dotted carbon nav glowing amber, outlined Arial-Black box-art wordmarks over circuit-board hero fields, and a pixel Mario welcome bubble.
+文件 用途
+DESIGN.md 设计系统（智能体阅读的内容）
+preview.html 展示色板、字体刻度、按钮、卡片的可视化目录
+preview-dark.html 相同目录，深色表面
 
+如何使用
 
-## What's Inside Each DESIGN.md
+1. 将某个网站的 DESIGN.md 复制到你的项目根目录
+2. 告诉你的 AI 智能体使用它。
 
-Every file follows the [Stitch DESIGN.md format](https://stitch.withgoogle.com/docs/design-md/specification/) with extended sections:
+贡献
 
-| # | Section | What it captures |
-|---|---------|-----------------|
-| 1 | Visual Theme & Atmosphere | Mood, density, design philosophy |
-| 2 | Color Palette & Roles | Semantic name + hex + functional role |
-| 3 | Typography Rules | Font families, full hierarchy table |
-| 4 | Component Stylings | Buttons, cards, inputs, navigation with states |
-| 5 | Layout Principles | Spacing scale, grid, whitespace philosophy |
-| 6 | Depth & Elevation | Shadow system, surface hierarchy |
-| 7 | Do's and Don'ts | Design guardrails and anti-patterns |
-| 8 | Responsive Behavior | Breakpoints, touch targets, collapsing strategy |
-| 9 | Agent Prompt Guide | Quick color reference, ready-to-use prompts |
+请参阅 CONTRIBUTING.md 了解指南。
 
-Each site includes:
+· 改进现有文件：修正错误的颜色、缺失的 token、薄弱的描述
+· 报告问题：如有任何看起来不对的地方，请告诉我们
 
-| File | Purpose |
-|------|---------|
-| `DESIGN.md` | The design system (what agents read) |
-| `preview.html` | Visual catalog showing color swatches, type scale, buttons, cards |
-| `preview-dark.html` | Same catalog with dark surfaces |
+在提交 PR 之前，请先开一个 issue 讨论你的想法并获得维护者的反馈。
 
-### How to Use
+许可证
 
+MIT 许可证 - 参见 LICENSE
 
-1. Copy a site's `DESIGN.md` into your project root
-2. Tell your AI agent to use it.
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-- **Improve existing files**: Fix wrong colors, missing tokens, weak descriptions
-- **Report issues**: Let us know if something looks off
-
-Before opening a PR, please [open an issue](https://github.com/VoltAgent/awesome-design-md/issues) first to discuss your idea and get feedback from maintainers.
-
-
-## License
-
-MIT License - see [LICENSE](LICENSE)
-
-This repository is a curated collection of design system documents extracted from public websites. All DESIGN.md files are provided "as is" without warranty. The extracted design tokens represent publicly visible CSS values. We do not claim ownership of any site's visual identity. These documents exist to help AI agents generate consistent UI.
+本仓库是从公开网站提取的设计系统文档精选合集。所有 DESIGN.md 文件均"按原样"提供，不附带任何保证。提取的设计 token 代表公开可见的 CSS 值。我们不主张对任何网站视觉标识的所有权。这些文档的存在是为了帮助 AI 智能体生成一致的 UI。
